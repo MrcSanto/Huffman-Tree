@@ -43,6 +43,19 @@ void encode(node *root, string str, unordered_map<char, string> &huffcode){
     encode(root->right, str + "1", huffcode);
 }
 
+void decode(node *root, int &top_index, string str){
+    if(!root) return;
+
+    if(!root->left && !root->right){
+        cout << root->ch;
+        return;
+    }
+    top_index++;
+
+    if(str[top_index] == '0') decode(root->left, top_index, str);
+    else if(str[top_index] == '1') decode(root->right, top_index, str);
+}
+
 
 void buildHuffTree(string text){
 
@@ -80,15 +93,30 @@ void buildHuffTree(string text){
     unordered_map<char, string> huffCode;
     encode(root, "", huffCode);
 
+    cout << "Codigos binarios da arvore criada: \n";
     for(auto pair : huffCode){
         cout << pair.first << ": " << pair.second << endl;
+    }
+
+    cout << "\nString original: " << text << endl;
+
+    string str = "";
+    for(char ch : text){
+        str += huffCode[ch];
+    }
+    cout << "String criptografada: " << str << endl;
+
+    int top_index = -1;
+    cout << "String decriptografada: ";
+    while(top_index < (int)str.size() - 2){
+        decode(root, top_index, str);
     }
 
 }
 
 
 int main(){
-    string text = "Big Bob Bites Banana\n";
+    string text = "SHOW DE BOLA MARCIO ÉOQ GRAXAAAAA VÉÉÉÉÉIAAA SHOW DE BOLA\n\n\n\nshow de bola marcio éééoqqqq graxxa véééia shw de bola capotemo o golzão verméio\n\n";
 
     buildHuffTree(text);
 
