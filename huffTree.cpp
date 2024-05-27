@@ -3,6 +3,7 @@
 #include <queue>
 #include <string>
 #include <vector> 
+#include <fstream>
 
 using namespace std;
 
@@ -64,6 +65,16 @@ void buildHuffTree(string text){
         freq[ch]++;
     }
 
+    int teste = 0; //contador somente para fins de teste 
+    cout << "Frequencia de caracteres: \n";
+    for(auto ch : freq){ 
+        if(ch.first == ' ') cout << "SPACE: " << ch.second << endl;
+        else if(ch.first == '\n') cout << "\\n: " << ch.second << endl;
+        else cout << ch.first << ": " << ch.second << endl;
+        teste += ch.second; //esta inconsistente, ver pq
+    }
+    cout << teste << endl << endl;
+
     //priority_queue é uma estrutura muito similar a queue
     //no entanto ela sempre armazena os valores de tal modo
         // que o maior deles sempre fica mais a frente
@@ -95,7 +106,10 @@ void buildHuffTree(string text){
 
     cout << "Codigos binarios da arvore criada: \n";
     for(auto pair : huffCode){
-        cout << pair.first << ": " << pair.second << endl;
+        if(pair.first == ' ') cout << "SPACE: " << pair.second << endl;
+        else if(pair.first == '\n') cout << "\\n: " << pair.second << endl;
+        else cout << pair.first << ": " << pair.second << endl;
+        
     }
 
     cout << "\nString original: " << text << endl;
@@ -107,16 +121,17 @@ void buildHuffTree(string text){
     cout << "String criptografada: " << str << endl;
 
     int top_index = -1;
-    cout << "String decriptografada: ";
+    cout << "\nString decriptografada: ";
     while(top_index < (int)str.size() - 2){
         decode(root, top_index, str);
     }
+    cout << endl;
 
 }
-
+ 
 
 int main(){
-    string text = "SHOW DE BOLA MARCIO ÉOQ GRAXAAAAA VÉÉÉÉÉIAAA SHOW DE BOLA\n\n\n\nshow de bola marcio éééoqqqq graxxa véééia shw de bola capotemo o golzão verméio\n\n";
+    string text = "Big Bob Bites Banana";
 
     buildHuffTree(text);
 
