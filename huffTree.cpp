@@ -58,10 +58,16 @@ void decode(node *root, int &top_index, string str){
 }
 
 
-void buildHuffTree(string text){
+void buildHuffTree(ifstream &arq){
 
+    if(!arq){
+        cout << "Erro em abrir o arquivo.\n";
+        return;
+    }
+    
+    char ch;
     unordered_map<char, int> freq;
-    for(char ch : text){
+    while(arq.get(ch)){
         freq[ch]++;
     }
 
@@ -111,7 +117,7 @@ void buildHuffTree(string text){
         else cout << pair.first << ": " << pair.second << endl;
         
     }
-
+    /*
     cout << "\nString original: " << text << endl;
 
     string str = "";
@@ -126,14 +132,20 @@ void buildHuffTree(string text){
         decode(root, top_index, str);
     }
     cout << endl;
-
+*/
 }
  
 
 int main(){
-    string text = "Big Bob Bites Banana";
+    ifstream arq("../biblia.txt");
+    
+    if(!arq.is_open()){
+        cout << "Erro em abrir o arquivo!\n";
+        return 1;
+    }
 
-    buildHuffTree(text);
+    buildHuffTree(arq);
+    arq.close();
 
     return 0;
 }
