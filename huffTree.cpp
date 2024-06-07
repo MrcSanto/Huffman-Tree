@@ -61,7 +61,6 @@ void decode(node *root, int &top_index, string str){
 void buildHuffTree(ifstream &arq){
 
     if(!arq){
-        cout << "Erro em abrir o arquivo.\n";
         return;
     }
     
@@ -117,27 +116,11 @@ void buildHuffTree(ifstream &arq){
         else cout << pair.first << ": " << pair.second << endl;
         
     }
-    /*
-    cout << "\nString original: " << text << endl;
-
-    string str = "";
-    for(char ch : text){
-        str += huffCode[ch];
-    }
-    cout << "String criptografada: " << str << endl;
-
-    int top_index = -1;
-    cout << "\nString decriptografada: ";
-    while(top_index < (int)str.size() - 2){
-        decode(root, top_index, str);
-    }
-    cout << endl;
-*/
 }
  
 
 int main(){
-    ifstream arq("../biblia.txt");
+    ifstream arq("../gpl3.txt");
     
     if(!arq.is_open()){
         cout << "Erro em abrir o arquivo!\n";
