@@ -7,6 +7,7 @@
 #include <codecvt>
 #include <locale>
 
+
 using namespace std;
 
 struct node{
@@ -26,6 +27,7 @@ struct comp {
 
 //funcao para alocar um novo nodo na memoria
 node *create_node(wchar_t c, int frequency, node *left, node *right){
+
     node *p = new node;
     p->ch = c;
     p->freq = frequency;
@@ -36,6 +38,7 @@ node *create_node(wchar_t c, int frequency, node *left, node *right){
 }
 
 void encode(node *root, wstring str, unordered_map<wchar_t, wstring> &huffcode){
+
     if(!root) return;
 
     if(!root->left && !root->right){
@@ -47,6 +50,7 @@ void encode(node *root, wstring str, unordered_map<wchar_t, wstring> &huffcode){
 }
 
 void decode(node *root, int &top_index, wstring str){
+
     if(!root) return;
 
     if(!root->left && !root->right){
@@ -112,6 +116,7 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
     node *root = pq.top();
     unordered_map<wchar_t, wstring> huffCode;
     encode(root, L"", huffCode);
+    
 
     saida << L"Codigos binários da árvore criada: \n";
     for(auto pair : huffCode){
