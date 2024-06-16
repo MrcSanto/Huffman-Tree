@@ -6,7 +6,7 @@
 #include <fstream>
 #include <codecvt>
 #include <locale>
-
+#include <sstream>
 
 using namespace std;
 
@@ -24,7 +24,6 @@ struct comp {
     }
 };
 
-
 //funcao para alocar um novo nodo na memoria
 node *create_node(wchar_t c, int frequency, node *left, node *right){
 
@@ -35,6 +34,20 @@ node *create_node(wchar_t c, int frequency, node *left, node *right){
     p->right = right;
 
     return p;
+}
+
+//função usada para gerar numeros para identificar os nodos
+string to_string_pointer(const void* ptr) {
+    stringstream ss;
+    ss << reinterpret_cast<uintptr_t>(ptr);
+    return ss.str();
+}
+
+//função usada para converter os caracteres unicode em UTF-8
+//isso porque as funcoes usadas em export2dot esperam parametros em UTF-8
+string to_utf8(const wstring& wstr) {
+    wstring_convert<codecvt_utf8<wchar_t>> conv;
+    return conv.to_bytes(wstr);
 }
 
 void encode(node *root, wstring str, unordered_map<wchar_t, wstring> &huffcode){
@@ -63,8 +76,73 @@ void decode(node *root, int &top_index, wstring str){
     else if(str[top_index] == L'1') decode(root->right, top_index, str);
 }
 
+void export2dot(const node* root, const std::string& filename, const unordered_map<wchar_t, wstring> &huffcode) {
+        ofstream dot(filename);
+        dot << "digraph G {\n";
+        queue<const node*> q;
+        q.push(root);
 
+        while (!q.empty()) {
+            const node* current = q.front();
+            q.pop();
+            string node_name = "node" + to_string(reinterpret_cast<uintptr_t>(current));
 
+            string label;
+            bool flag = false;
+            if (current->ch == L'\0') {
+                label = to_string(current->freq);
+                flag = true;
+            } else {
+                string valuestr;
+                if(current->ch == L' ')
+                    valuestr = "SPACE";
+                else if(current->ch == L'\n')
+                    valuestr = "NEWLINE";
+                else if(current->ch == L'"')
+                    valuestr = "ASPAS";
+                else if(current->ch == L'>')
+                    valuestr = "maior que";
+                else if(current->ch == L'<')
+                    valuestr = "menor que";
+                else if(current->ch == L'{')
+                    valuestr = "abre chave";
+                else if(current->ch == L'}')
+                    valuestr = "fecha chave"; 
+                else if(current->ch == L'|')
+                    valuestr = "pipe";              
+                else
+                    valuestr = to_utf8(wstring(1, current->ch));
+
+                string bin_code = to_utf8(huffcode.at(current->ch));
+                label = "{{\' " + valuestr + " \'|" + to_string(current->freq) + "}|" + bin_code + "}";
+            }
+            
+            if(!flag) 
+                dot << "\t" << node_name << " [shape=record, label=\"" << label << "\"];\n";
+            else
+                dot << "\t" << node_name << " [label=\"" << label << "\"];\n";
+
+            if (current->left) {
+                string left_node_name = "node" + to_string_pointer(current->left);
+                dot << "    " << node_name << " -> " << left_node_name << " [label=\"0\"];\n";
+                q.push(current->left);
+            }
+            if (current->right) {
+                string right_node_name = "node" + to_string_pointer(current->right);
+                dot << "    " << node_name << " -> " << right_node_name << " [label=\"1\"];\n";
+                q.push(current->right);
+            }
+        }
+        dot << "}\n";
+    }
+
+    // Desenha a árvore de Huffman usando o Graphviz
+void draw(const node* root, const unordered_map<wchar_t, wstring>& huffCode) {
+    string dot_filename = "huffman_tree.dot";
+    export2dot(root, dot_filename, huffCode);
+
+    system("dot -Tpng huffman_tree.dot -o ../graph.png");
+}
 
 void buildHuffTree(wifstream &arq, wofstream &saida){
 
@@ -141,12 +219,13 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
     saida << L"Tamanho compactado: " << compressed_size << L" bytes" << endl;
     saida << L"Redução: " << compression_ratio << L"%" << endl;
 
-}
- 
+    draw(root, huffCode);
+
+}   
 
 int main(){
 
-    wifstream arq(L"../gpl3.txt");
+    wifstream arq(L"../arqteste.txt");
     arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); 
 
     wofstream saida("../saida.txt");
@@ -168,3 +247,11 @@ int main(){
 
     return 0;
 }
+
+
+//falta:
+//      desenhar para windows e linux;
+//      separar funçoes em um outro arquivo para melhor organizaçao;
+//      fazer uma interface amigavel para inserir qual documento txt quer ler
+        // quem sabe até botar uma interface para escoher qual SO o usuario usa
+        //ou ver se tem como implementar uma deteccao automatica de SO no codigo fonte.
