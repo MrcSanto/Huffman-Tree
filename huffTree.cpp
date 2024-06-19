@@ -138,10 +138,10 @@ void export2dot(const node* root, const std::string& filename, const unordered_m
 
     // Desenha a árvore de Huffman usando o Graphviz
 void draw(const node* root, const unordered_map<wchar_t, wstring>& huffCode) {
-    string dot_filename = "huffman_tree.dot";
+    string dot_filename = "../saida/huffman_tree.dot";
     export2dot(root, dot_filename, huffCode);
 
-    system("dot -Tpng huffman_tree.dot -o ../graph.png");
+    system("dot -Tpng ../saida/huffman_tree.dot -o ../saida/graph.png");
 }
 
 void buildHuffTree(wifstream &arq, wofstream &saida){
@@ -222,31 +222,6 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
     draw(root, huffCode);
 
 }   
-
-int main(){
-
-    wifstream arq(L"../arqteste.txt");
-    arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); 
-
-    wofstream saida("../saida.txt");
-    saida.imbue(locale(saida.getloc(), new codecvt_utf8<wchar_t>));
-    
-    if(!arq.is_open()){
-        wcout << L"Erro em abrir o arquivo!\n";
-        return 1;
-    }
-
-    if (!saida.is_open()) {
-        wcout << L"Erro em criar o arquivo de saída!\n";
-        return 1;
-    }
-
-    buildHuffTree(arq, saida);
-    arq.close();
-    saida.close();
-
-    return 0;
-}
 
 
 //falta:
