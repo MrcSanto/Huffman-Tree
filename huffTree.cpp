@@ -7,7 +7,6 @@
 #include <codecvt>
 #include <locale>
 #include <sstream>
-#include <filesystem>
 
 using namespace std;
 
@@ -27,13 +26,11 @@ struct comp {
 
 //funcao para alocar um novo nodo na memoria
 node *create_node(wchar_t c, int frequency, node *left, node *right){
-
     node *p = new node;
     p->ch = c;
     p->freq = frequency;
     p->left = left;
     p->right = right;
-
     return p;
 }
 
@@ -51,6 +48,8 @@ string to_utf8(const wstring& wstr) {
     return conv.to_bytes(wstr);
 }
 
+//funciona em pre-ordem, percorre a arvore recursivamente para cada caractere em huffcode
+    //e codifica seu caminho em 1 para esquerda e 0 para direita.
 void encode(node *root, wstring str, unordered_map<wchar_t, wstring> &huffcode){
 
     if(!root) return;
@@ -63,6 +62,9 @@ void encode(node *root, wstring str, unordered_map<wchar_t, wstring> &huffcode){
     encode(root->right, str + L'1', huffcode);
 }
 
+//percorre a ARVORE de forma a encontrar o caractere pedido
+//wstring em questao é a string em unicode CODIFICADA
+//top index é o indice do caractere atual na string codificada
 void decode(node *root, int &top_index, wstring str){
 
     if(!root) return;
@@ -137,7 +139,7 @@ void export2dot(const node* root, const std::string& filename, const unordered_m
         dot << "}\n";
     }
 
-    // Desenha a árvore de Huffman usando o Graphviz
+// Desenha a árvore de Huffman usando o Graphviz
 void draw(const node* root, const unordered_map<wchar_t, wstring>& huffCode) {
     string dot_filename = "../saida/huffman_tree.dot";
     export2dot(root, dot_filename, huffCode);
@@ -163,9 +165,9 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
         if(ch.first == L' ') saida << L"SPACE: " << ch.second << endl;
         else if(ch.first == L'\n') saida << L"\\n: " << ch.second << endl;
         else saida << ch.first << L": " << ch.second << endl;
-        teste += ch.second; //esta inconsistente, ver pq
+        teste += ch.second;
     }
-    saida << teste << endl << endl;
+    saida << "Quantidade de caracteres: " << teste << endl << endl;
 
     //priority_queue é uma estrutura muito similar a queue
     //no entanto ela sempre armazena os valores de tal modo
@@ -205,21 +207,21 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
     }
 
     arq.clear();
-    arq.seekg(0, ios::end);
-    int original_size = arq.tellg();
+    arq.seekg(0, ios::end); //move o ponteiro do arquivo para o final, para medir o tamanho do arquivo
+    int original_size = arq.tellg(); //como o ponteiro esta no final, armazena o tamanho em bytes dentro da variavel 
 
-    int compressed_size = 0;
-    for (auto pair : freq) {
-        compressed_size += pair.second * huffCode[pair.first].length();
+    int compressed_size = 0; //variavel para tamanho do arq compactado
+    for (auto pair : freq) { //itera sobre freq que contem as frequencias de cada caractere
+        compressed_size += pair.second * huffCode[pair.first].length(); //e faz uma simples multiplicacao para ver o tamanho
     }
-    compressed_size = (compressed_size + 7) / 8; 
+    compressed_size = (compressed_size + 7) / 8; // converte para bytes
 
-    double compression_ratio = ((double)(original_size - compressed_size) / original_size) * 100;
+    double compression_ratio = ((double)(original_size - compressed_size) / original_size) * 100; //e calcula a taxa de compressao.
 
-    cout << L"Tamanho original: " << original_size << L" bytes" << endl;
-    cout << L"Tamanho compactado: " << compressed_size << L" bytes" << endl;
-    cout << L"Redução: " << compression_ratio << L"%" << endl;
+    saida << L"\n\n\nTamanho original: " << original_size << L" bytes" << endl;
+    saida << L"Tamanho compactado: " << compressed_size << L" bytes" << endl;
+    saida << L"Redução: " << compression_ratio << L"%" << endl;
 
     draw(root, huffCode);
 
-}  
+}
