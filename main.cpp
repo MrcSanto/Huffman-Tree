@@ -7,8 +7,11 @@
 using namespace std;
 
 int main(){
+    string path;
+    cout << "Digite o nome do arquivo para ser comprimido: ";
+    cin >> path;
 
-    wifstream arq(L"../clarissa.txt");
+    wifstream arq("../"  + path);
     arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); 
 
     wofstream saida("../saida/saida.txt");
@@ -28,7 +31,7 @@ int main(){
     arq.close();
     saida.close();
 
-    cout << "Arquivos gerados na pasta : saida\n";
+    cout << "Arquivo em saida/.\n";
 
     return 0;
 }

@@ -220,9 +220,3 @@ G: 01000011010
 g: 010001
 I: 0110010
 L: 011001100
-
-
-
-Tamanho original: 5513970 bytes
-Tamanho compactado: 3077353 bytes
-Redução: 44.1899%

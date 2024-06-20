@@ -7,6 +7,7 @@
 #include <codecvt>
 #include <locale>
 #include <sstream>
+#include <filesystem>
 
 using namespace std;
 
@@ -117,7 +118,7 @@ void export2dot(const node* root, const std::string& filename, const unordered_m
                 label = "{{\' " + valuestr + " \'|" + to_string(current->freq) + "}|" + bin_code + "}";
             }
             
-            if(!flag) 
+            if(!flag)
                 dot << "\t" << node_name << " [shape=record, label=\"" << label << "\"];\n";
             else
                 dot << "\t" << node_name << " [label=\"" << label << "\"];\n";
@@ -215,18 +216,10 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
 
     double compression_ratio = ((double)(original_size - compressed_size) / original_size) * 100;
 
-    saida << L"\n\n\nTamanho original: " << original_size << L" bytes" << endl;
-    saida << L"Tamanho compactado: " << compressed_size << L" bytes" << endl;
-    saida << L"Redução: " << compression_ratio << L"%" << endl;
+    cout << L"Tamanho original: " << original_size << L" bytes" << endl;
+    cout << L"Tamanho compactado: " << compressed_size << L" bytes" << endl;
+    cout << L"Redução: " << compression_ratio << L"%" << endl;
 
     draw(root, huffCode);
 
-}   
-
-
-//falta:
-//      desenhar para windows e linux;
-//      separar funçoes em um outro arquivo para melhor organizaçao;
-//      fazer uma interface amigavel para inserir qual documento txt quer ler
-        // quem sabe até botar uma interface para escoher qual SO o usuario usa
-        //ou ver se tem como implementar uma deteccao automatica de SO no codigo fonte.
+}  
