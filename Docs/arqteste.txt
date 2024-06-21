@@ -1,0 +1,1 @@
+Este é um texto de teste com caracteres Unicode. Aqui estão alguns exemplos de caracteres especiais: ♥, ☺, €, ☀, こんにちは, привет, مرحبا. Espero que este texto ajude a testar o suporte completo a Unicode em seu programa.
