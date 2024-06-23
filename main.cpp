@@ -11,16 +11,6 @@ int main(){
     cout << "Digite o nome do arquivo para ser comprimido: ";
     cin >> path;
 
-    
-//ideia
-
-//implementar uma funcao no arquivo de funcoes que lista todos os arquivos txt em /Docs
-// 1--biblia.txt
-// 2--clarissa.txt
-// 3--...
-//e fazer o usuario escolher o arquivo pelo numero.
-//alem de ficar mais facil fica mais bonito
-
     wifstream arq("../Docs/" + path);
     arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); 
 

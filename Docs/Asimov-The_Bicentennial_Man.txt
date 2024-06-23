@@ -1,0 +1,979 @@
+VERSION 1.0 dtd 033000
+
+
+
+ISAAC ASIMOV
+
+The Bicentennial Man
+
+In the introduction to this Nebula Awards volume it was mentioned that science fiction writers-successful science fiction writers--are unique. No one, however, is quite as unusual as Isaac Asimov. He is unique in almost any direction you look. He has written more on more subjects, and better on more subjects, and more unexpectedly on most subjects, and in more ways on more subjects, than anyone else in the field. He writes poetry, limericks, short stories, novels, essays, articles, nonfiction books, trilogies, jokes and so on-more of them than anyone else could imagine. He has written the first successful science fiction detective story, after being told by the revered John Campbell, long-time editor of ASTOUNDING and later ANALOG SCIENCE FICTION, that it couldn't be done. He has written curious articles about chemicals that have not yet been invented, such as a chemical that travels in time.
+
+However did this remarkable man come to create this enormous body of work?
+
+He was born January 2, 1920, apparently with an incredible appetite for reading and an equally incredible ability to recall almost everything he has ever read. A third talent, which did not surface until some little time after he had already made his name as a science fiction writer, was the talent of taking the turgid prose in which a great many other people write about matters in the field of science, history, and just about everything else, and turning it into a clear and readable language so effective that other people came very close to remembering the facts so presented as well as Isaac Asimov did himself. But it is as a writer of science fiction that we know and treasure him best. From his early classics in the field, novels such as I, ROBOT, The Foundation series, and PEBBLE IN THE SKY are some of his early science fiction that come to mind. His magnificent story NIGHTFALL and a host of others down the years lead us now to the award winning novelette which follows, THE BICENTENNIAL MAN. In it we are back again with Isaac Asimov's three laws of robotics which have stood the test of time, and once again back up a novelette to be remembered.
+
+The Three Laws of Robotics
+
+1. A robot may not injure a human being, or, through inaction, allow a human being to come to harm.
+
+2. A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.
+
+3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+I
+
+Andrew Martin said, "Thank you," and took the seat offered him. He didn't look driven to the last resort, but he had been.
+
+He didn't, actually, look anything, for there was a smooth blankness, to his face, except for the sadness one imagined one saw in his eyes. His hair was smooth, light brown, rather fine; and he had no facial hair. He looked freshly and cleanly shaved. His clothes were distinctly old-fashioned, but neat, and predominantly a velvety red-purple in color.
+
+Facing him from behind the desk was the surgeon The nameplate on the desk included a fully identifying series of letters and numbers which Andrew didn't bother with. To call him Doctor would be quite enough
+
+"When can the operation be carried through, Doctor?" he asked.
+
+Softly, with that certain inalienable note of respect that a robot always used to a human being, the surgeon said, "I am not certain, sir, that I understand how or upon whom such an operation could be performed."
+
+There might have been a look of respectful intransigence on the surgeon's face, if a robot of his sort, in lightly bronzed stainless steel, could have such an expression-or any expression.
+
+Andrew Martin studied the robot's right hand, his cutting hand, as it lay motionless on the desk. The fingers were long and were shaped into artistically metallic, looping curves so -graceful and appropriate that one could imagine a scalpel fitting them and becoming, temporarily, one piece with them. There would be no hesitation in his work, no stumbling, no quivering, no mistakes. That confidence came with specialization, of course, a specialization so fiercely desired by humanity that few robots were, any longer, independently brained. A surgeon, of course, would have to be. But this one, though brained, was so limited in his capacity that he did not recognize Andrew, had probably never heard of him .
+
+"Have you ever thought you would like to be a man?" Andrew asked.
+
+The surgeon hesitated a moment, as though the question fitted nowhere in his allotted positronic pathways. "But I am a robot, sir."
+
+"Would it be better to be a man?"
+
+"If would be better, sir, to be a better surgeon. I could not be so if I were a man, but only if I were a more advanced robot. I would be pleased to be a more advanced robot."
+
+"It does not offend you that I can order you about? That I can make you stand up, sit down, move right or left, by merely telling you to do so?"
+
+"It is my pleasure to please you, sir. If your orders were to interfere with my functioning with respect to you or to any other human being, I would not obey you. The First Law, concerning my duty to human safety, would take precedence over the Second Law relating to obedience. Otherwise, obedience is my pleasure. Now, , upon whom am I to perform this operation?"
+
+"Upon me," Andrew said.
+
+"But that is impossible. It is patently a damaging operation."
+
+"That does not matter," said Andrew, calmly. "I must not inflict damage," said the surgeon. "On a human being, you must not," said Andrew, "but I, too, am a robot."
+
+2
+
+Andrew had appeared much more a robot when he had first been manufactured. He had then been as much a robot in appearance as any that had ever existed smoothly designed and functional.
+
+He had done well in the home to which he had been factors brought in those days when robots in households, or on the planet altogether, had been a rarity. There had ` been four in the home: Sir and Ma'am and Miss and, Little Miss. He knew their names, of -course, but he ", never used them. Sir was Gerald Martin.
+
+His own serial number was NDR- . . . He eventually forgot the numbers. It had been a long time, of course; j but if he had wanted to remember, he could not- have ? forgotten. He had not wanted to remember.
+
+Little Miss had been the first to call him Andrew,
+
+because she could not use the letters, and all the rest .
+followed her in doing so. 
+
+
+	Little Miss . . . She had lived for ninety years and,
+was long since dead. He bad tried to call her Ma'am
+once, but she would not allow it. Little Miss she had
+been to her last day.		s
+	Andrew had been intended to perform the duties
+of a valet, a butler, even a lady's maid. Those were
+
+the experimental days for him and,. indeed, for all 
+robots anywhere save in the industrial and exploratory;
+
+factories and stations off Earth.		t
+	The Martins enjoyed him, and half the time he was
+prevented from doing his work because Miss and Little
+Miss wanted to play with him. It was Miss who first
+understood how this might be arranged. "We order
+you to play with us and you must follow orders."
+	"I am sorry, Miss, but a prior order from Sir must
+surely take precedence."
+But she said, "Daddy just said he hoped you would take care of the cleaning. That's not much of an order. I order you."
+
+Sir did not mind. Sir was fond of Miss and of Little Miss, even more than Ma'am was; and Andrew was fond of them, too. At least, the effect they had upon his actions were those which in a human being would have been called the result of fondness. Andrew thought of it as fondness for he did not know any other word for it.
+
+It was for Little Miss that Andrew had carved a pendant out of wood. She had ordered him to. Miss, it seemed, had received an ivorite pendant with scrollwork for her birthday and Little Miss was unhappy over it. She had only a piece of wood, which she gave Andrew together with a small kitchen knife.
+
+He had done it quickly and Little Miss had said, "That's nice, Andrew. I'll show it to Daddy."
+
+Sir would not believe it. "Where did you really get this, Mandy?" Mandy was what he called Little Miss. When Little Miss assured him she was really telling the truth, he turned to Andrew. "Did you do this, Andrew?"
+
+"Yes, Sir."
+
+"The design, too?"
+
+"Yes, Sir."
+
+"From what did you copy the design?"
+
+"It is a geometric representation, Sir, that fits the grain of the wood."
+
+The next day, Sir brought him another piece of wood-a larger one-and an electric vibro-knife. "Make something out of this, Andrew. Anything you want to," he said.
+
+Andrew did so as Sir watched, then looked at the product a long time. After that, Andrew no longer waited on tables. He was ordered to read books on furniture design instead, and he learned to make cabinets and desks.
+
+"These are amazing productions, Andrew," Sir soon told him.
+
+"I enjoy doing them, Sir," Andrew admitted.
+
+`Enjoy?"
+
+"It makes the circuits of my brain somehow flow more easily. I have heard you use the word `enjoy' and the way you use it fits the way I feel. I enjoy doing them, Sir."
+
+3
+
+Gerald Martin took Andrew to the regional offices of  the United States Robots and Mechanical Men Corporation. As a member of the Regional Legislature he y had no trouble at all in gaining an interview with the chief robopsychologist. In fact, it was only as a member of the Regional Legislature that he qualified as a 7 robot owner in the first place-in those early days when robots were rare.
+
+Andrew did not understand any of this at the time. But in later years, with greater learning, he could review that early scene and understand it in its proper light.
+
+The robopsychologist, Merton Mansky, listened with a growing frown and more than once managed to stop his fingers at the point beyond which they would have irrevocably drummed on the table. He had drawn features and a lined forehead, but he might actually have been younger than he looked.
+
+"Robotics is not an exact art, Mr. Martin," Mansky . explained. "I cannot explain it to you in detail, but the mathematics governing the plotting of the positronic pathways is far too complicated to permit of any but approximate solutions. Naturally, since we build everything around the Three Laws, those are incontrovertible. We will, of course, replace your robot--2'
+
+"Not at all," said Sir. "There is no question of failure , on his part. He performs his assigned duties perfectly. The point is he also carves wood in exquisite fashion and never the same twice. He produces works of art.", 
+Mansky looked confused. "Strange. Of course, we're attempting generalized pathways these days. Really creative, you think?"
+
+"See for yourself." Sir handed over a little sphere >> 
+7
+of wood on which there was a playground scene in which the boys and girls were almost too small to make out, yet they were in perfect proportion and they blended so naturally with the grain that it, too, seemed to have been carved.
+
+Mansky was incredulous. "He did that?" He handed it back with a shake of his head. "The luck of the draw. Something in the pathways."
+
+"Can you do it again?"
+
+"Probably not. Nothing like this has ever been reported."
+
+"Good! I don't in the least mind Andrew's being the only one."
+
+"I suspect that the company would like to have your robot back for study," Mansky said.
+
+"Not a chance!" Sir said with sudden grimness. "Forget it." He turned to Andrew, "Let's go home, now."
+
+4
+
+Miss was dating boys and wasn't about the house much. It was Little Miss, not as little as she once was, who filled Andrew's horizon now. She never forgot that the very first piece of wood carving he had done had been for her. She kept it on a silver chain about her neck.
+
+It was she who first objected to Sir's habit of giving away Andrew's work. "Come on, Dad, if anyone wants one of them, let him pay for it. It's worth it."
+
+"It isn't like you to be greedy, Mandy."
+
+"Not for us, Dad. For the artist."
+
+Andrew had never heard the word before, and when he had a moment to himself he looked it up in the dictionary.
+
+Then there was another trip, this time to Sir's lawyer.
+
+"What do you think of this, John?" Sir asked.
+
+The lawyer was John Finegold. He had white hair and a pudgy belly, and the rims of his contact lenses were tinted a bright green. He looked at the small
+
+plaque Sir had given him. "This is beautiful. But I've already heard the news. Isn't thus a carving made by your robot? The one you've brought with you."
+
+"Yes, Andrew does them. Don't you, Andrew?"
+
+"Yes, Sir," said Andrew.
+
+"How much would you pay for that, John?" Sir asked.
+
+"I can't say. I'm not a collector of such things"
+
+"Would you believe I have been offered two hundred and fifty dollars for that small thing. Andrew has made chairs that have sold for five hundred dollars. There's two hundred thousand dollars in the bank 
+from Andrew's products."
+	"Good heavens, he's making you rich, Gerald."
+	"Half rich," said Sir. "Half of it is in an account in
+the name of Andrew Martin."		a
+	"The robot?"
+	"That's right, and I want to know if it's legal"
+	"Legal . . . ?" Feingold's chair creaked as he leaned
+back in it. "There are no precedents, Gerald. How did
+your robot sign the necessary papers?"
+	"He can sign his name. Now, is there anything
+further that ought to be done?"
+	"Um." Feingold's eyes seemed to turn inward for a
+moment. Then he said, "Well, we can set up a trust
+
+to handle all finances in his name and that will place _
+a layer of insulation between him and the hostile world '
+Beyond that, my advice is you do nothing. No one has e
+stopped you so far. If anyone objects, let him bring .
+suit"
+
+"And will you take the case if the suit is brought?" p
+
+"For a retainer, certainly."
+
+"How much?"
+
+"Something like that," Feingold said, and pointed to the wooden plaque.
+
+"Fair enough," said Sir.
+
+
+Feingold chuckled as he turned to the robot. "Andrew, are you pleased that you have money?"
+
+"Yes, sir."
+
+"What do you plan to do with it?"
+"Pay for things, sir, which otherwise Sir would have to pay for. It would save him expense, sir."
+
+5
+
+Such occasions' arose. Repairs were expensive, and revisions were even more so. With the years, new models of robots were produced and Sir saw to it that Andrew had the advantage of every new device, until he was a model of metallic excellence. It was all done at Andrew's expense. Andrew insisted on that.
+
+Only his positronic pathways were untouched. Sir insisted on that.
+
+"The new models aren't as good as you are, Andrew," he said. "The new robots are worthless. The company has learned to make the pathways more precise, more closely on the nose, more deeply on the track. The new robots don't shift. They do what they're designed for and never stray. I like you better."
+
+"Thank you, Sir."
+
+"And it's your doing, Andrew, don't you forget that. I am certain Mansky put an end to generalized pathways as soon as he had a good look at you. He didn't like the unpredictability. Do you know how many times he asked for you back so he could place you under study? Nine times! I never let him have you, though; and now that he's retired, we may have some peace."
+
+So Sir's hair thinned and grayed and his face grew pouchy, while Andrew looked even better than he had when he first joined the family. Ma'am had joined an art colony somewhere in Europe, and Miss was a poet in New York. They wrote sometimes, but not often. Little Miss was married and lived not far away. She said she did not want to leave Andrew. When her child, Little Sir, was born, she let Andrew hold the bottle and feed him.
+
+With the birth of a grandson, Andrew felt that Sir finally had someone to replace those who had gone. Therefore, it would not be so unfair now to come to him with the request.
+
+"Sir, it is kind of you to have allowed me to spend my money as I wished" ' "It was your money, Andrew." "Only by your voluntary act, Sir. I do not believe the  law would have stopped you from keeping it all." "The law won't persuade me to do wrong, Andrew." 3 "Despite all expenses, and despite taxes, too, Sir, I have nearly six hundred thousand dollars:"
+
+"I know that, Andrew."		j
+
+"I want to give it to you, Sir."
+
+"I won't take it, Andrew"		-
+
+"In exchange for something you can give me, Sir" p
+"Oh? What is that, Andrew?"
+"My freedom, Sir."
+"Your-"
+"I wish to buy my freedom, Sir."
+
+6
+
+It wasn't that easy. Sir had flushed, had said, "For God's sake!" Then he had turned on his heel and stalked away.
+
+It was Little Miss who finally brought him round, defiantly and harshly-and in front of Andrew. For thirty years no one had ever hesitated to talk in front of Andrew, whether or not the matter involved Andrew. He was only a robot.
+
+"Dad, why are you taking this as a personal affront? .He'll still 
+be here. He'll still be loyal. He can't help ,
+
+that; it's built in. All he wants is a form of words. Ha wants to be called free. Is that so terrible? Hasn't be earned this chance? Heavens, he and I have been talking about it for years!"
+
+"Talking about it for years, have you?"
+
+"Yes, and over and over again he postponed it for fear he would hurt you. I made him put the matter up to you."
+
+"He doesn't know what freedom is. He's a robot."
+
+"Dad, you don't know him. He's read everything in the library. I don't know what he feels inside, but I don't know what you feel inside either. When you
+talk to him you'll find he reacts to the various abstractions as you and I do, and what else counts? If some
+one else's reactions are like your own, what more can
+you ask for?"
+	"The law won't take that attitude," Sir said, angrily. "See here, you!" He turned to Andrew with a deliberate grate in his voice. "I can't free you except by doing it legally. If this gets into the courts, you not only won't get your freedom but the law will take official cognizance of your .money. They'll tell you that a robot has no right to earn money. Is this rigmarole worth losing your money?"
+	"Freedom is without price, Sir," said Andrew. "Even the chance of freedom is worth the money."
+
+7
+
+It seemed the court might also take the attitude that freedom was without price, and might decide that for no price, however great, could a robot buy its freedom.
+	The simple statement of the regional attorney who represented those who had brought a class action to oppose the freedom was this: "The word `freedom' has no meaning when applied to a robot. Only a human being can be free." He said it several times, when it seemed appropriate; slowly, with his hand coming down rhythmically on the desk before him to mark the words.
+	Little Miss asked permission to speak on behalf of Andrew.
+	She was recognized by her full name, something Andrew had never heard pronounced before: "Amanda Laura Martin Charney may approach the bench."
+	"Thank you, Your Honor. I am not a lawyer and I don't know the proper way of phrasing things, but I hope you will listen to my meaning and ignore the words.
+	"Let's understand what it means to be free in Andrew's case. In some ways, he is free. I think it's at least twenty years since anyone in the Martin family
+
+gave him an order to do something that we felt he might not do of his own accord. But we can, if we wish, give him an order to do anything, couching it as harshly as we wish, because he is a machine that belongs to us. Why should we be in a position to do so, when he has served us so long, so faithfully, and has earned so much money for us? He owes us nothing more. The debit is entirely on the other side.
+	"Even if we were legally forbidden to place Andrew in involuntary servitude, he would still serve us voluntarily. Making him free would be a trick of words only, but it would mean much to him. It would give him everything and cost us nothing."
+	For a moment the judge seemed to be suppressing a smile. "I see your point, Mrs. Chamey. The fact is that there is no binding law in this respect and no precedent. There is, however, the unspoken assumption that only a man may enjoy freedom. I can make new law here, subject to reversal in a higher court; but I cannot lightly run counter to that assumption. Let me address the robot. Andrew!"
+	"Yes, Your Honor."
+	It was the first time Andrew bad spoken in court, and the judge seemed astonished for a moment at the human timbre of his voice.
+	"Why do you want to be free, Andrew? In what way will this matter to you?"
+	"Would you wish to be a slave, Your Honor," Andrew asked.
+	"But you are not a slave. You are a perfectly good robot-a genius of a robot, I am given. to understand, capable of an artistic expression that can be matched nowhere. What more could you do if you were free?"
+	"Perhaps no more than I do now, Your Honor, but with greater joy. It has been said in this courtroom that only a human being can be free. It seems to me that only someone who wishes for freedom can be free. I wish for freedom."
+	And it was that statement that cued the judge. The crucial sentence in his decision was "There is no right
+to deny freedom to any object with a mind advanced enough to grasp the concept and desire the state." It was eventually upheld by the World Court:
+
+8
+
+Sir remained displeased, and his harsh voice made Andrew feel as if he were being short-circuited. "I don't want your damned money, Andrew. I'll take it only because you won't feel free otherwise. From now on, you can select your own jobs and do them as you please. I will give you no orders, except this one: Do as you please. But I am still responsible for you. That's part of the court order. I hope you understand that."
+
+Little Miss interrupted. "Don't be irascible, Dad. The responsibility is no great chore. You know you won't have to do a thing. The Three Laws still hold."
+
+"Then how is he free?"
+
+"Are not human beings. bound by their laws, Sir?" Andrew replied.
+
+"I'm not going to argue." Sir left the room, and Andrew saw him only infrequently after that.
+
+Little Miss came to see him frequently in the small house that had been built and made over for him. It had. no kitchen, of course, nor bathroom facilities. It had just two rooms; one was a library and one was a combination storeroom and workroom. Andrew accepted many commissions and worked harder as a free robot than he ever had before, till the cost of the house was paid for and the structure was signed over to him.
+
+One day Little Sir-no, "George!"-came. Little Sir had insisted on that after' the court decision. "A free robot doesn't call anyone Little Sir," George had said. "I call you Andrew. You must call me George."
+
+His preference was phrased as an order, so Andrew called him George-but Little Miss remained Little Miss.
+
+One day when George came alone, it was to say that Sir was dying. Little Miss was at the bedside, but Sir wanted Andrew as well.
+
+Sir's, voice was still quite strong, though he seemed unable to move much. He struggled to raise his hand.
+
+"Andrew," he said, "Andrew-Don't help me, George. I'm only dying; I'm not crippled. Andrew, I'm glad you're free. I just wanted to tell you that."
+
+Andrew did not know what to say. He had never been at the side of someone dying before, but he knew it was the human way of ceasing to function. It was an involuntary and irreversible dismantling, and Andrew did not know what to say that might be appropriate. He could only remain standing, absolutely silent, absolutely motionless.
+
+When it was over, Little Miss said to him, "He may not have seemed friendly to you toward the end, Andrew, but he was old, you know; and it hurt him that you should want to be free."
+
+Then Andrew found the words. "I would never have been free without him, Little Miss."
+
+9
+
+Only after Sir's death did Andrew begin to wear clothes. He began with an old pair of trousers at first, a pair that George had given him.
+
+George was married now, and a lawyer. He had joined Feingold's firm. Old Feingold was long since dead, but his daughter had carried on. Eventually the firm's name became Feingold and Martin. It remained so even when the daughter retired and no Feingold took her place. At the time Andrew first put on clothes, the Martin name had just been added to the firm:
+
+George had tried not to smile the first time he saw Andrew attempting to put on trousers, but to Andrew's eyes the smile was clearly there. George showed Andrew how to manipulate the static charge to allow the trousers to open, wrap about his lower body, and move shut. George demonstrated on his own trousers, but Andrew was quite aware it would take him a while to duplicate that one flowing motion.
+
+"But why do you want trousers, Andrew? Your body is so beautifully functional it's a shame to cover it
+especially when you needn't worry about either temperature control or modesty. And the material :doesn't cling properly-not on metal."
+
+Andrew held his ground. "Are not human bodies beautifully functional, George? Yet you cover yourselves."
+
+"For warmth, for cleanliness, for protection, for decorativeness. None of that applies to you."
+
+"I feel bare without clothes. I feel different, George," Andrew responded.
+
+"Different! Andrew, there are millions of robots on Earth now. In this region, according to the last census, there are almost as many robots as there are men."
+
+"I know, George. There are robots doing every conceivable type of work."
+
+"And none of them wear clothes."
+
+"But none of them are free, George."
+
+Little by little, Andrew added to his wardrobe. He was inhibited by George's smile and by the stares of the people who commissioned work.
+
+He might be free, but there was built into Andrew a carefully detailed program concerning. his behavior to people, and it was only by the tiniest steps that he dared advance; open disapproval would set him back months. Not everyone accepted Andrew as free. He was incapable of resenting that, and yet there was a difficulty about his thinking process when he thought of it. Most of all, he tended to avoid putting on clothes -or too many of them-when he thought Little Miss might come to visit him. She was older now and was often away in some warmer climate, but when she returned the first thing she did was visit him.
+
+On one of her visits, George said, ruefully, "She's got me, Andrew. I'll be running for the legislature next year. `Like grandfather,' she says, `like grandson."'
+
+"Like grandfather . . ." Andrew stopped, uncertain.
+
+"I mean that I, George, the grandson, will be like Sir, the grandfather, who was in the legislature once."
+
+"It would be pleasant, George, if Sir were still-" He paused, for he did not want to say, "in working order." That seemed inappropriate.
+
+"Alive;" George said. "Yes, I think of the old monster now and then, too."
+
+Andrew often thought about this conversation. He had noticed his own incapacity in speech when talking with George. Somehow the language had changed since Andrew had come into being with a built-in ': vocabulary. Then, too, George used a colloquial speech, as Sir and Little Miss had not. Why should he have called Sir a monster when surely that word was not a appropriate. Andrew could not even turn to his own -' books for guidance. They were old, and most dealt with woodworking, with art, with furniture design. .; There were none on language, none on the ways off; human beings.
+
+Finally, it seemed to him that he must seek the proper books; and as a free robot, he felt he must not ask George. He would go to town and use the library. j It was a triumphant decision and he felt his electro potential grow distinctly higher until he had to throw in
+
+an impedance coil.		j
+
+He put on a full costume, including even a shoulder chain of wood. He would have preferred the glitter plastic, but George had said that wood was much more appropriate. and that polished cedar was considerably more valuable as well.
+
+He had placed a hundred feet between himself and the house before gathering resistance brought him to a halt. He shifted the impendance coil out of circuit, and when that did not seem to help enough he returned to his home and on a piece of notepaper wrote neatly, "I have gone to the library," and placed it in clear view on his worktable.
+
+10
+
+Andrew never quite got to the library.
+
+He had studied the map. He knew the route, but not the appearance of it. The actual landmarks did not resemble the symbols on the map and he would hesitate. Eventually, he thought he must have somehow gone wrong, for everything looked strange.
+	He passed an occasional field-robot, but by-the time he decided he should ask his way none were ii; sight. A vehicle passed and did not stop.
+	Andrew stood irresolute, which meant calmly motionless, for coming across the field toward him were two human beings.
+	He turned to face them, and they altered their course to meet him. A moment before, they had been talking loudly. He had heard their voices. But now they were silent. They had the look that Andrew associated with human uncertainty; and they were young, but not very young. Twenty, perhaps? Andrew could never judge human age.
+	"Would you describe to me the route to the town library, sirs?"
+	One of them, the taller of the two, whose tall hat lengthened him still farther, almost grotesquely, said, not to Andrew, but to the other, "It's a robot."
+	The other had a bulbous nose and heavy eyelids. He said, not to Andrew but to the first, "It's wearing clothes."
+	The tall one snapped his fingers. "It's the free robot. They have a robot at the old Martin place who isn't owned by anybody. Why else would it be wearing clothes?"
+	"Ask it," said the one with the nose.
+	"Are you the Martin robot?" asked the tall one.
+	"I am Andrew Martin, sir," Andrew said.
+	"Good. Take off your clothes. Robots don't wear clothes." He said to the other, "That's disgusting. Look at him!"
+	Andrew hesitated. He hadn't heard an order in that tone of voice in so long that his Second Law circuits had momentarily jammed.
+	The tall one repeated, "Take off- your clothes. I order you."
+	Slowly, Andrew began to remove them.
+	"Just drop them," said the tall one.
+	The nose said, "If it doesn't belong to anyone, it could be ours as much as someone else's."
+	"Anyway," said the tall one, "who's to object to
+
+anything we do. We're not damaging property." tie turned to Andrew. "Stand on your head."
+"The head is not meant-" Andrew began.
+	"That's an order. If you don't know how, try anyway.
+.,
+"
+
+	Andrew hesitated again, then bent to put his head on the ground. He tried to lift his legs but fell, heavily.
+	The tall one said, "Just lie there." He said to the other, "We can take him apart. Ever take a robot apart?"
+	"Will he let us?"
+	"How can he stop us?"
+	There was no way Andrew could stop them, if they ordered him in a forceful enough manner not to resist The Second Law of obedience took precedence over the Third Law of self-preservation. In any case, he could not defend himself without possibly hurting them, and that would mean breaking the First Law. At that thought, he felt every motile unit contract slightly and he quivered as he lay there.
+	The tall one walked over and pushed - at him with his foot. "He's heavy. I think we'll need tools to do the job."
+	The nose said, "We could order him to take himself, apart. It would be fun to watch him try."
+	"Yes," said the tall one, thoughtfully, "but let's get him off the road. If someone comes along-"
+	It was too late. Someone had, indeed, come along and it was George. From where he lay, Andrew had seen him topping a small rise in the middle distance He would have liked to signal him in. some way, but the last order had been "Just lie there!"
+	George was running now, and he arrived on the scene somewhat winded. The two young men stepped back a little and then waited thoughtfully.
+	"Andrew, has something gone wrong?" George asked, anxiously.
+	Andrew replied, "I am well, George."
+	"Then stand up. What happened to your clothes?"
+	"That your robot, Mac?" the tall young man asked.
+	George turned sharply. "He's no one's robot. What's been going on here."
+	"We politely asked him to take his clothes off. What's that to you, if you don't own him."
+	George turned to Andrew. "What were they doing, Andrew?"
+	"It was their intention in some way to dismember me. They were about to move me to a quiet spot and order me to dismember myself."
+	George looked at the two young men, and his chin trembled.
+	The young men retreated no farther. They were smiling.
+	The tall one said, lightly, "What are you going to do, pudgy? Attack us?"
+	George said, "No. I don't have to. This robot has been with my family for over seventy-five years. He knows us and he values us more than he values anyone else. I am going to tell him that you two are threatening my life and that you plan to kill me. I will ask him to defend me. In choosing between me and you two, he will choose me. Do you know what will happen to you when he attacks you?"
+	The two were backing away slightly, looking uneasy.
+	George said, sharply, "Andrew, I am in danger and about to come to harm from these young men. Move toward them!"
+	Andrew did so, and the young men did not wait. They ran.
+	"All right, Andrew, relax," George said. He looked unstrung. He was far past the age where he could face the possibility of a dustup with one young man, let alone two.
+	"I couldn't have hurt them, George: I could see they were not attacking you."
+	"I didn't order you to attack them. I only told you to move toward them. Their own fears did the rest."
+	"How can they fear robots?"
+	"It's a disease of mankind, one which has not yet been cured. But never mind that. What the devil are you doing here, Andrew? Good thing I found your
+
+note. I was just on the point of turning back and hiring a helicopter when I found you. How did you get it into your head to go to the library? I would have brought you any books you needed"
+"I am a-" Andrew began.
+	"Free robot. Yes, yes. All right, what did you want in the library?"
+	"I want to know more about human beings, about the world, about everything. And about robots, George. I want to write a history about robots."
+	George put his arm on the other's shoulder. "Well, let's walk home. But pick up your clothes first. Andrew, there are a million books on robotics and all of them include histories of the science. The world is growing saturated not only with robots but with information about robots."
+	Andrew shook his head, a human gesture he had lately begun to adopt. "Not a history of robotics, George. A history of robots, by a robot. I want to explain how robots feel about what has happened since the first ones were allowed to work and live on Earth."
+	George's eyebrows lifted, but he said nothing in direct response.
+
+11
+
+Little Miss was just past her eighty-third birthday, but there was nothing about her that was lacking in either energy or determination. She gestured with her cane oftener than she propped herself up with it.
+	She listened to the story in a fury of indignation. "George, that's horrible. Who were those young ruffians?"
+	"I don't know. What difference does it make? In the end they did not do any damage."
+	"They might have. You're a lawyer, George; and if you're well off, it's entirely due to the talents of Andrew. It was the money he earned that is the foundation of everything we have. He provides the continuity for this family, and I will not have him treated as a wind-up toy."
+"What would you have me do, Mother?" George asked.
+
+"I said you're a lawyer. Don't you listen? You set up a test case somehow, and you force the regional courts to declare for robot rights and get the legislature to pass the necessary bills. Carry the whole thing to the World Court, if you have to. I'll be watching, George, and I'll tolerate no shirking."
+
+She was serious, so what began as a way of soothing the fearsome old lady became an involved matter with enough legal entanglement to make it interesting. As senior partner of Feingold and Martin, George plotted strategy. But he left the actual work to his junior partners, with much of it a matter for his son, Paul, who was also a member of the firm and who reported dutifully nearly every day to his grandmother. She, in turn, discussed the case every day with Andrew.
+
+Andrew was deeply involved. His work on his book on robots was delayed again, as he pored over the legal arguments and even, at times, made very diffident suggestions. "George told me that day I was attacked that human beings have always been afraid of robots," he said one day. "As long as they are, the courts and the legislatures are not likely to work hard on behalf of robots. Should not something be done about public opinion?"
+
+So while Paul stayed in court, George took to the public platform. It gave him the advantage of being informal, and he even went so far sometimes as to wear the new, loose style of clothing which he called drapery.
+
+Paul chided him, "Just don't trip over it on stage, Dad."
+
+George replied, despondently, "I'll try not to."
+
+He addressed the annual convention of holo-news editors on one occasion and said, in part: "If, by virtue of the Second Law, we can demand of any robot unlimited obedience in all respects not involving harm to a human being, then any human being, any human being, has a fearsome power over any robot, any robot. In particular, since Second Law supersedes
+
+Third Law; any human being can use the law of obedience to overcome the law of self-protection. He can' order any robot to damage itself or even to destroy itself for any reason, or for no reason.
+
+"Is this just? Would we treat an animal so? Even an inanimate object which had given us good service has a claim on our consideration. And a robot is not insensitive; it is not an animal. It can think well enough so that it can talk to us, reason with us, joke with us. Can we treat them as friends, can we work together with them, and not give them some of the fruits of that friendship, some of the benefits of co working?
+
+"If a man has the right to give a robot any order that does not involve harm to a human being, he should have the decency never to give a robot any order that involves harm to a robot, unless human safety absolutely requires it. With great power goes great responsibility, and if the robots have Three Laws to protect men, is it too much to ask that men have a law or two to protect robots?"
+
+Andrew was right. It was the battle over public opinion that held the key to courts and legislature. In the end, a law was passed that set up conditions under which robot-harming orders were forbidden. It was endlessly qualified and the punishments for violating the law were totally inadequate, but the principle was established. The final passage by the World Legislature came through on the day of Little Miss' death.
+
+That was no coincidence. Little Miss held on to life desperately during the last debate and let go only when word of victory arrived. Her last smile was for Andrew. Her last words were, "You have been good to us, Andrew." She died with her hand holding his, while her son and his wife and children remained at a respectful distance from both.
+
+12
+
+Andrew waited patiently when the receptionist-robot disappeared into the inner office. The receptionist might have used the holographic chatterbox, but un- .:
+questionably it was perturbed by having to deal with another robot rather than with a human being.,
+	Andrew passed the time revolving the matter-4h his mind: Could "unroboted" be used as an analog of "unmanned," or had unmanned become a metaphoric term sufficiently divorced from its original literal meaning to be applied to robots--or to women for that matter? Such problems frequently arose as he worked on his book on robots. The trick of thinking out sentences to express all complexities had undoubtedly increased his vocabulary.
+	Occasionally, someone came into the room to stare at him and he did not try to avoid the glance. He looked at each calmly, and each in turn looked away.
+	Paul Martin finally emerged. He looked surprised, or he would have if Andrew could have made out his expression with certainty. Paul had taken to wearing the heavy makeup that fashion was dictating for bath sexes. Though it made sharper and firmer the somewhat bland lines of. Paul's face, Andrew disapproved. He found that disapproving of human beings, as long, as he did not express it verbally, did not make him very uneasy. He could even write the disapproval. He was sure it had not always been so.
+	"Come in, Andrew. I'm sorry I made you wait, but there was something I had to finish. Come in, you had said you wanted to talk to me, but I didn't know you meant here in town."
+	"If you are busy, Paul, I am prepared to continue to wait."
+	Paul glanced at the interplay of shifting shadows on the dial on the wall that served as timepieces and said, "I can make some time. Did you come alone?"
+	"I hired an automatobile."
+	"Any trouble?" Paul asked, with more than a trace of anxiety.
+	"I wasn't expecting any. My rights are protected."
+	Paul looked all the more anxious for that. "Andrew, I've explained that the law is unenforceable, at least under most conditions. And if you insist on wearing
+
+clothe, you'll run into trouble eventually; just like that first time."
+"And only tine, Paul. I'm sorry you are displeased"
+	"Well, look at it this way: you are virtually a living legend, Andrew, and you are too valuable in many different ways for you to have any right to take chances with yourself. By the way, how's the book coming?"
+	"I am approaching the end, Paul. The publisher is quite pleased."
+	"Good!"
+	"I don't know that he's necessarily pleased with the book as a book. I think he expects to sell many copies because it's written by a robot and that's what pleases him.
+	"Only human, I'm afraid."
+	"I am not displeased. Let it sell for whatever reason, since it will mean money and I can use some."
+	"Grandmother left you-"
+	"Little Miss was generous, and I'm sure I can count on the family to help me out further. But it is the royalties from the book on which I am counting to help me through the next step."
+"What next step is that?" 		`
+	"I wish to see the head of U.S. Robots and Mechanical Men Corporation. I have tried to make an appointment; but so far I have not been able to reach him. The Corporation did not cooperate with me in the writing of the book, so I am not surprised, you understand."
+	Paul was clearly amused. "Cooperation is the last thing you can expect. They didn't cooperate with us --`, in our great fight for robot rights. Quite the reverse, .; and you can see why. Give a robot rights and people
+may not want to buy them."
+	"Nevertheless," said Andrew, "if you call them, you may be able to obtain an interview for me."
+	"I'm no more popular with them than you are, Andrew."
+	"But perhaps you can hint that by seeing me they
+may head off a campaign by Feingold and Martin to strengthen the rights of robots further."
+
+"Wouldn't that be a lie, Andrew?"
+
+"Yes, Paul, and I can't tell one. That is why you must call."
+
+"Ah, you can't lie, but you can urge me to tell a lie, is that it? You're getting more human all the time, Andrew."
+
+13
+
+The meeting was not easy to arrange, even with Paul's supposedly weighted name. But it finally came about. When it did, Harley Smythe-Robertson, who, on his mother's side, was descended from the original founder of the corporation and who had adopted the hyphenation to indicate it, looked remarkably unhappy. He was approaching retirement age and his entire tenure as president had been devoted to the matter of robot rights. His gray hair was plastered thinly over the top of his scalp; his face was not made up, and he eyed Andrew with brief hostility from time to time.
+
+Andrew began the conversation. "Sir, nearly a century ago, I was told by a Merton Manskyk of this corporation that the mathematics governing the plotting of the positronic pathways was far too complicated to permit of any but approximate solutions and that, therefore, my own capacities were not fully predictable."
+
+"That was a century ago." Smythe-Robertson hesitated, then said icily, "Sir. It is true no longer. Our robots are made with precision now and are trained precisely to their jobs."
+
+"Yes," said Paul, who had come along, as he said, to make sure that the corporation played fair, "with the result that my receptionist must be guided at every point once events depart from the conventional, however slightly."
+
+"You would be much more displeased if it were to improvise," Smythe-Robertson said.
+
+"Then you no longer manufacture robots like myself which are flexible and adaptable."
+
+"No longer."
+
+"The research I have done in connection with my book," said Andrew, "indicates that I am the oldest robot presently in active operation."
+
+"The oldest presently," said Smythe-Robertson, "and the oldest ever. The oldest that will ever be. No robot is useful after the twenty-fifth year. They are called in and replaced with newer models."
+
+"No robot as presently manufactured is useful after the twentieth year," said Paul, with a note of sarcasm creeping into his voice. "Andrew is quite exceptional in this respect."
+
+Andrew, adhering to the path he had marked out for himself, continued, "As the oldest robot in the world and the most flexible, am I not unusual enough to merit special treatment from the company?"
+
+"Not at all," Smythe-Robertson said, freezing up. "Your unusualness is an embarrassment to the company. If you were on lease, instead of having been an outright sale through some mischance, you would long since have been replaced."
+
+"But that is exactly the point," said Andrew. "I am .. a free robot and I own myself. Therefore I come to you and ask you to replace me. You cannot do this without the owner's consent. Nowadays, that consent is extorted as a condition of the lease, but in my time this did not happen."
+
+Smythe-Robertson was looking both startled and puzzled, and for a moment there was silence. Andrew'
+
+-
+
+found himself staring at the hologram on the wall. It was a death mask of Susan Calvin, patron saint of all roboticists. She had been dead for nearly two centuries now, but as a result of writing his book Andrew knew, her so well he could half persuade himself that he had met her in life.
+
+Finally Smythe-Robertson asked, "How can I replace you for you? If I replace you, as robot, how can I donate the new robot to you as owner since in the very
+act of replacement you cease to exist" He smiled
+
+fly.
+
+"Not at all difficult," Paul interposed. "The seat of Andrew's personality is his positronic brain and it is the one part that cannot be replaced without creating a new robot. The positronic brain, therefore, is Andrew the owner. Every other part of the robotic body can be replaced without affecting the robot's personality, and those other parts are the brain's possessions. Andrew, I should say, wants to supply his brain with a new robotic body."
+
+"That's right," said Andrew, calmly. He turned to Smythe=Robertson. "You have manufactured androids, haven't you? Robots that have the outward appearance of humans, complete to the texture of the skin?"
+
+"Yes, we have. They worked perfectly well, with their synthetic fibrous skins and tendons.. There was virtually no metal anywhere except for the brain, yet they were nearly as tough as metal robots. They were tougher, weight for weight."
+
+Paul looked interested. "I didn't know that. How many are on the market?"
+
+"None," said Smythe-Robertson. "They were much more expensive than metal models and a market survey showed they would not be accepted. They looked too human."
+
+Andrew was impressed. `But the corporation retains its expertise, I assume. Since it does, I wish to request that I be replaced by an organic robot, an android."
+
+Paul looked surprised. "Good Lord!" he said.
+
+Smythe-Robertson stiffened. "Quite impossible!"
+
+"Why is it impossible?" Andrew asked. "I will pay any reasonable fee, of course."
+
+"We do not manufacture androids."
+
+"You do not choose to manufacture androids," Paul interjected quickly. "That is not the same as being unable to manufacture them."
+
+"Nevertheless," Smythe-Robertson responded, "the manufacture of androids is against public policy."
+
+"There is no law against it," said Paul.
+
+"Nevertheless, we do not manufacture them--and we will not"
+
+Paul cleared his throat. "Mr. Smythe-Robertson," he said, "Andrew is a free robot who comes under the purview of the law guaranteeing robot rights. You are aware of this, I take it?"
+
+"Only too well."
+
+"This robot, as a free robot, chooses to wear clothes This results in his being frequently humiliated by thoughtless human beings despite the law against the humiliation of robots. It is difficult to prosecute vague offenses that don't meet with the general disapproval of those who must decide on guilt and innocence."
+
+"U.S. Robots understood that from the start. Your father's firm unfortunately did not."
+
+"My father is dead now, but what I see is that we have here a clear offense with a clear target."
+
+"What are you talking about?" said Smythe-Robertson.
+
+	"My client, Andrew Martin he has just become
+my client is a free robot who is entitled to ask U.S.
+Robots and Mechanical Men Corporation for the
+rights of replacement, which the corporation supplies
+to anyone who owns a robot for more than twenty-five
+years. In fact, the corporation insists on such replacement."
+
+	Paul was smiling and thoroughly at ease. "The positronic brain of my client," he went on, "is the owner
+of the body of my client which is certainly more than
+twenty-five years old. The positronic brain demands the
+replacement of the body and offers to pay any reason
+able fee for an android body as that replacement. If
+you refuse the request, my client undergoes humiliation
+and we will sue.
+
+"While public opinion would not ordinarily support the claim of a robot in such a case, may I remind you that U.S. Robots is not popular with the public generally. Even those who most use and profit from robots are suspicious of the corporation. This may be a hangover from the days when robots were widely feared.
+It may be resentment against the power and wealth of U.S. Robots, which has a worldwide monopoly. Whatever the cause may be, the resentment eats. I think you will find that you would prefer not to be faced with a lawsuit, particularly since my client is wealthy and will live for many more centuries and will have no reason to refrain from fighting the battle forever."
+
+Smythe-Robertson had slowly reddened. "You are trying to force-"
+
+"I force you to do nothing," said Paul. "If you wish to refuse to accede to my client's reasonable request, you may by all means do so and we will leave without another word. But we will sue, as is certainly our right, and you will find that you will eventually lose."
+
+"Well. "
+
+"I see that you are going to accede," said Paul. "You may hesitate but you will come to it in the end. Let me assure you, then, of one further point: If, in the process of transferring my client's positronic brain from his present body to an organic one, there is any damage, however slight, then I will never rest until I've nailed the corporation to the ground. I will, if necessary, take every possible step to mobilize public opinion against the corporation if one brain path of my client's platinum-iridium essence is scrambled." He turned to Andrew and asked, "Do you agree to all this, Andrew?"
+
+Andrew hesitated a full minute. It amounted to the approval of lying, of blackmail, of the badgering and humiliation of a human being. But not physical harm, he told himself, not physical harm.
+
+He managed at last to come out with a rather faint "Yes."
+
+14
+
+He felt as though he were being constructed again. For days, then for weeks, finally for months, Andrew
+
+found himself not himself somehow, and the simplest actions kept giving rise to hesitation.
+
+Paul was frantic. "They've damaged you, Andrew. We'll have to institute suit!"
+
+Andrew spoke very slowly. "You . . . mustn't. You'll never be able to prove . . . something . . . like m-m-m-m='
+
+"Malice?"
+
+"Malice. Besides, I grow . . . stronger, better. It's the tr-tr-tr-"
+
+"Tremble?"
+
+"Trauma. After all, there's never been such an opop-op- . . . before."
+
+Andrew could feel his brain from the inside. No one else could. He knew he was well, and during the months that it took him to learn full coordination and full positronic interplay he spent hours before the mirror.
+
+Not quite human! The face was stiff-too stiff and the motions were too deliberate. They lacked the careless, free flow of the human being, but perhaps that might come with time. At least now he could wear clothes without the ridiculous anomaly of a metal face going along with it.
+
+Eventually, he said, "I will be going back to work."
+
+Paul laughed. "That means you are well. What will you be doing? Another book?"
+
+"No," said Andrew, seriously. "I live too long for any one. career to seize me by the throat and never let me go. There was a time when I was primarily an artist, and I can still turn to that. And there was a time when I was a historian, and I can still turn to that. But now I wish to be a robobiologist "
+
+"A robopsycholagist, you mean."
+
+"No. That would imply the study of positronic brains, and at the moment I lack the desire to do that. A robobiologist, it seems to me, would be concerned with the working of the body attached to that brain."
+
+"Wouldn't that be a roboticist?"
+
+"A roboticist works with a metal body. I would be
+studying an organic humanoid body, of which I have the only one, as far as I know."
+
+"You narrow your field," said Paul, thoughtfully. "As an artist, all conception is yours; as a historian you deal chiefly with robots; as a robobiologist, you will deal with yourself."
+
+Andrew nodded. "It would seem so:"
+
+Andrew had to start from the very beginning, for he knew nothing of ordinary biology and almost nothing of science. He became a familiar sight in the libraries, where he sat at the electronic indices for hours at a time, looking perfectly normal in clothes. Those few who knew he was a robot in no way interfered with him.
+
+He built a laboratory in a room which he added to his house; and his library grew, too.
+
+Years passed, and Paul came to him one day and said, "It's a pity you're no longer working on the history of robots. I understand U.S. Robots is adopting a radically new policy."
+
+Paul had aged, and his deteriorating eyes had been replaced with photoptic cells. In that respect, he had drawn closer to Andrew.
+
+"What have they done?" Andrew asked.
+
+"They are manufacturing central computers, gigantic positronic brains, really, which communicate with anywhere from a dozen to a thousand robots by microwave. The robots themselves have no brains at all. They are the limbs of the gigantic brain, and the two are physically separate."
+
+"Is that more efficient?"
+
+"U.S. Robots claims it is. Smythe-Robertson established the new direction before he died, however, and it's my notion that it's a backlash at you. U.S. Robots is determined that they will make no robots that will give them the type of trouble you have, and for that reason they separate brain and body. The brain will have no body to wish changed; the body will have no brain to wish anything.
+
+"It's amazing, Andrew," Paul went on, "the influence you have had on the history of. robots. It was your artistry that encouraged U.S. Robots to make robots more precise and specialized; it was your freedom that resulted in the establishment of the principle of robotic rights; it was your insistence on an android body that made U.S. Robots switch to brain-body separation"
+
+Andrew grew thoughtful. "I suppose in the end the corporation will produce one vast brain controlling several billion robotic bodies. All the eggs will be in one basket. Dangerous. Not proper at all."
+
+"I think you're right," said Paul, "but I don't suspect it will come to pass for a century at least and I won't live to see it. In fact, I may not live to see next year."
+
+"Paul!" cried Andrew, in concern.
+
+Paul shrugged. "Men are mortal, Andrew. We're not like you. It doesn't matter too much, but it does make it important to assure you on one point. I'm the last of the human Martins. The money I control personally will be left to the trust in your name, and as far as anyone can foresee the future, you will be economically secure."
+
+"Unnecessary," Andrew said, with difficulty. In all this time, he could not get used to the deaths of the Martins.
+
+"Let's not argue. That's the way it's going to be. Now, what are you working on?"
+
+"I am designing a system for allowing androids myself-to gain energy from the combustion of hydrocarbons, rather than from atomic cells."
+
+Paul raised his eyebrows. "So that they will breathe and eat?"
+
+"Yes."
+
+"How long have you been pushing in that direction?"
+
+"For a long time now, but I think I have finally designed an adequate combustion chamber for catalyzed controlled breakdown."
+
+"Hut why, Andrew? The atomic cell is surely in finitely better."
+"In some ways, perhaps. But the atomic cell is
+
+15
+
+It took time, but Andrew had time. In the first place, he did not wish to do anything till Paul-had died in peace. With the death of the great-grandson of Sir, Andrew felt more nearly exposed to a hostile world and for that reason was all the more determined along the path he had chosen.
+
+Yet he was not really alone. If a man had died, the firm of Feingold and Martin lived, for a corporation does not die any more than a robot does.
+
+The firm had its directions and it followed them soullessly. By way of the trust and through the law firm, Andrew continued to be wealthy. In return for their own large annual retainer, Feingold and Martin involved themselves in the legal aspects of the new combustion chamber. But when the time came for Andrew to visit U.S. Robots and Mechanical Men Corporation, he did it alone. Once he had gone with Sir and once with Paul. This time, the third time, he was alone and manlike.
+
+U.S. Robots had changed. The actual production plant had been shifted to a large space station, as had grown to be the case with more and more industries. With them had gone many robots. The Earth itself was becoming park like, with its one-billion-person population stabilized and perhaps not more than thirty percent of its at-least-equally-large robot population independently brained.
+
+The Director of Research was Alvin Magdescu, dark of complexion and hair, with a little pointed beard and wearing nothing above the waist but the breast band that fashion dictated. Andrew himself was well covered in the older fashion of several decades back.
+
+Magdescu offered his hand to his visitor. "I know you, of course, and I'm rather pleased to see you.
+
+You're our most notorious product and it's a pity old Smyth Robertson was so set against you. We could have done a great deal with you."
+
+"You still can," said Andrew.
+
+"No, I don't think so. We're past the time. We've had robots on Earth for over a century, but that's changing. It will be back to space with them, and those that stay here won't be brained."
+
+"But there remains myself, and I stay on Earth."
+
+"True, but there doesn't seem to be much of the robot about you. What new request have you?"
+
+"To be still less a robot. Since I am so far organic, I wish an organic source of energy. I have here the plans . . : '
+
+Magdescu did not hasten through them. He might have intended to at first, but he stiffened and grew intent. At one point, he said, "This is remarkably ingenious. Who thought of all this?"
+
+"I did," Andrew replied.
+
+Magdescu looked up at him sharply, then said, "It would amount to a major overhaul of your body, and an experimental one, since such a thing has never been attempted before. I advise against it. Remain as you are."
+
+Andrew's face had limited means of expression, but impatience showed plainly in his voice. "Dr. Magdescu, you miss the entire point: You have no choice but to accede to my request. If such devices can be built into my body, they can be built into human bodies as well. The tendency to lengthen human life by prosthetic devices has already been remarked on. There are no devices better than the ones I have designed or am de
+
+signing. t happens, I control the patents by way of the firm of Feingold and Martin. We are quite capable of going into business for ourselves and of developing the kind of prosthetic devices that may end by producing human beings with many of the properties of robots. Your own business will then suffer.
+	"If, however, you operate on me now and agree to do so under similar circumstances in the future, you will receive permission to make use of the patents and control the technology of both robots and of the prosthetization of human beings. The initial leasing will not be granted, of course, until after the first operation is completed successfully, and after enough time has passed to demonstrate that it is indeed successful."
+	Andrew felt scarcely any First Law inhibition to the stern conditions he was setting a human being. He was learning to reason that what seemed like cruelty might, in the long run, be kindness.
+	Magdescu was stunned. "I'm not the one to decide something like this. That's a corporate decision that would take time."
+	"I can wait a reasonable time," said Andrew, "but only a reasonable time." And he thought with satisfaction that Paul himself could not have done it better.
+
+16
+
+It took only a reasonable time, and the operation was a success.
+	"I was very much against the operation, Andrew," Magdescu said, "but not for the reasons you might think. I was not in the least against the experiment, if it had been on someone else. I hated risking your positronic brain. Now that you have the positronic pathways interacting with simulated nerve pathways, it might have been difficult to rescue the brain intact if the body had gone bad"
+	"I had every faith in the skill of the staff at U.S. Robots," said Andrew. "And I can eat now."
+	"Well, you can sip olive oil. It will mean occasional cleanings of the combustion chamber, as we have explained to you. Rather an uncomfortable touch, I should think."
+	"Perhaps, if I did not expect to go further. Self cleaning is not impossible. In fact, I am working on a
+
+device that will deal with solid food that may be expected to contain incombustible fractions-indigestible matter, so to speak, that will have to be discarded."
+"You would then have to develop an anus."
+"Or the equivalent."
+"What else, Andrew. . . ?"
+"Everything else."
+"Genitalia, too?"
+	"Insofar as they will fit my plans. My body is a canvas on which I intend to draw . . ."
+	Magdescu waited for the sentence to he completed, and when it seemed that it would not be, he completed it himself. "A man?"
+	"We shall see," Andrew said.
+	"That's a puny ambition, Andrew. You're better than a man. You've gone downhill from the moment, you opted to become organic."
+	"My brain has not suffered."
+	"No, it hasn't. I'll grant you that. But, Andrew, the whole new breakthrough in prosthetic devices made possible by your patents is being marketed under your name. You're recognized as the inventor and you're being honored for it-as you should be. Why play further games with your body?"
+	Andrew did not answer.
+	The honors came. He accepted membership in several learned societies, including one that was devoted to the new science he had established-the one he had called robobiology but which had come to be termed prosthetology. On the one hundred and fiftieth anniversary of his construction, a testimonial dinner was given in his honor at U.S. Robots. If Andrew saw an irony in this, he kept it to himself.
+	Alvin Magdescu came out of retirement to chair the dinner. He was himself ninety-four years old and was alive because he, too, had prosthetized devices that, among other things, fulfilled the function of liver and, kidneys. The dinner reached its climax when Magdescu, after a short and emotional talk, raised his glass to . toast The Sesquicentennial Robot.
+	Andrew had had the sinews of his face redesigned
+to the point where he could show a human range of emotions, but he sat through all the ceremonies solemnly passive. He did not like to be a Sesquicentennial Robot.
+
+17
+
+It was prosthetology that finally took Andrew off the Earth.
+
+In the decades that followed the celebration of his sesquicentennial, the Moon had come to be a world more Earthlike than Earth in every respect but its gravitational pull; and in its underground cities there was a fairly dense population. Prosthetized devices there had to take the lesser gravity into account. Andrew spent five years on the Moon working with local prosthetologists to make the necessary adaptations. When not at his work, he wandered among the robot population, every one of which treated him with the robotic obsequiousness due a man.
+
+He came back to an Earth that was humdrum and quiet in comparison, and visited the offices of Feingold and Martin to announce his return.
+
+The current head of the firm, Simon DeLong, was surprised. "We had been told you were returning, Andrew"-he had almost said Mr. Martin-"but we were not expecting you till next week."
+
+"I grew impatient," said Andrew briskly. He was anxious to get to the point. "On the Moon, Simon, I was in charge of a research team of twenty human scientists. I gave orders that no one questioned. The Lunar robots deferred to me as they would to a human being. Why, then, am I not a human being?"
+
+A wary look entered DeLong's eyes. "My dear Andrew, as you have just explained, you are treated as a human being by both robots and human beings. You are, therefore, a human being de facto."
+
+"To be a human being de facto is not enough. I want not only to be treated as one, but to be legally identified as one. I want to be a human being de jure."
+
+"Now, that is another matter," DeLong said. "There
+
+we would run into human prejudice and into the undoubted fact that, however much you may be like a human being, you are not a human being."
+
+"In what way not?" Andrew asked. "I have the shape of a human being and organs equivalent to those of a human being. My organs, in fact, are identical to some of those in a prosthetized human being. I have contributed artistically, literally, and scientifically to human culture as much as any human being now alive. What more can one ask?"
+
+"I myself would ask nothing more. The trouble is that it would take an act of the World Legislature to define you as a human being. Frankly, I wouldn't expect that to happen."
+
+"To whom on the Legislature could I speak?"
+
+"To the Chairman of the Science and Technology Committee, perhaps."
+
+"Can you arrange a meeting?"
+
+"But you scarcely need an intermediary. In your position, you can-"
+
+"No. You arrange it." It didn't even occur to Andrew that he was giving a fiat order to a human being. He had grown so accustomed to that on the Moon. "I want him to know that the firm of Feingold and Martin is backing me in this to the hilt."
+
+"Well, now-"
+
+"To the hilt, Simon. In one hundred and seventy-three years I have in one fashion or another contributed greatly to this firm. I have been under obligation to individual members of the firm in times past. I am not, now. It is rather the other way around now and I am calling in my debts."
+
+"I will-do what I can," DeLong said.
+
+18
+
+The Chairman of the Science and Technology Committee was from the East Asian region and was a woman. Her name was Chee Li-hsing and her transparent garments-obscuring what she wanted obscured only by their dazzle-made her look plastic-wrapped.
+"I sympathize with your wish for full human rights," she said. "There have been times in history when segments of the human population fought for full human rights. What rights, however, can you possibly want that you do not have?"
+
+"As simple a thing as my right to life," Andrew stated. "A robot can be dismantled at any time."
+
+"A human being can be executed at any time."
+
+"Execution can only follow due process of law. There is no trial needed for my dismantling. Only the word of a human being in authority is needed to end me. Besides . . . besides . . ." Andrew tried desperately to allow no sign of pleading, but his carefully designed tricks of human expression and tone of voice betrayed him here. "The truth is I want to be a man. I have wanted it through six generations of human beings."
+
+Li-hsing looked up at him out of darkly sympathetic eyes. "The Legislature can pass a law declaring you one. They could pass a law declaring that a stone statue be defined as a man. Whether they will actually do so is, however, as likely in the first case as the second. Congress people are as human as the rest of the population and there is always that element of suspicion against robots."
+
+"Even now?"
+
+"Even now. We would all allow the fact that you have earned the prize of humanity, and yet there would remain the fear of setting an undesirable precedent."
+
+"What precedent? I am the only free robot, the only one of my type, and there will never be another. You may consult U.S. Robots."
+
+"`Never' is a long word, Andrew-or, if you prefer, Mr. Martin-since I will gladly give you my personal accolade as man. You will find that most congress people will not be so willing to set the precedent, no matter how meaningless such a precedent might be. Mr. Martin, you have my sympathy, but I cannot tell you to hope. Indeed . . ."
+
+She sat back and her forehead wrinkled. "Indeed, if the issue grows too heated, there might well arise a certain sentiment, both inside the Legislature and out
+
+side, for that dismantling you mentioned. Doing away, with you could turn out to be the easiest way of resolving the dilemma. Consider that before deciding to push matters."
+
+Andrew stood firm. "Will no one remember the technique of prosthetology, something that is almost entirely mine?"
+
+"It may seem cruel, but they won't. Or if they do, it will be remembered against you. People will say you did it only for yourself. It will be said it was part of a campaign to roboticize human beings, or to humanify robots; and in either case evil and vicious. You have never been part of a political hate campaign, Mr. Martin; but I tell you that you would be the object of vilification of a kind neither you nor I would credit, and there would be people to believe it all. Mr. Martin, let your life be."
+
+She rose, and next to Andrew's seated figure she seemed small and almost childlike.
+
+"If I decide to fight for my humanity, will you be on my side?"
+
+She thought, then replied, "I will be-insofar as I can be. If at any time such a stand would appear to threaten my political future, I might have to abandon you, since it is not an issue I feel to be at the very root of my beliefs. I am trying to be honest with you."
+
+"Thank you, and I will ask no more. I intend to fight this through, whatever the consequences, and I will ask you for your help only for as long as you can give it."
+
+19
+
+It was not a direct fight. Feingold and Martin counseled patience and Andrew muttered, grimly, that he.
+
+I had an endless supply of that. Feingold and Martin then entered on a campaign to narrow and restrict the . area of combat.
+
+They instituted a lawsuit denying the obligation to
+	3
+pay debts to an individual with a prosthetic heart on the grounds that the possession of a robotic organ removed humanity, and with it the constitutional rights of human beings. They fought the matter skillfully and tenaciously, losing at every step but always in such a way that the decision was forced to be as broad as possible, and then carrying it by way of appeals to the World Court.
+
+It took years, and millions of dollars.
+
+When the final decision was handed down, DeLong held what amounted to a victory celebration over the legal loss. Andrew was, of course, present in the company offices on the occasion.
+
+"We've done two things, Andrew," said DeLong, "both of which are good. First of all, we have established the fact that no number of artificial parts in the human body causes it to cease being a human body. Secondly, we have engaged public opinion in the question in such a way as to put it fiercely on the side of a broad interpretation of humanity, since there is not a human being in existence who does not hope for prosthetics if they will keep him alive."
+
+"And do you think the Legislature will now grant me my humanity?" Andrew asked.
+
+DeLong looked faintly uncomfortable. "As to that, I cannot be optimistic. There remains the one organ which the World Court has used as the criterion of humanity. Human beings have an organic cellular brain and robots have a platinum iridium positronic brain if they have one at all-and you certainly have a positronic brain. No, Andrew, don't get that look in your eye. We lack the knowledge to duplicate the work of a cellular brain in artificial structures close enough to the organic type as to allow it to fall within the court's decision. Not even you could do it."
+
+"What should we do, then?"
+
+"Make the attempt, of course. Congresswoman Lihsing will be on our side and a growing number of other congress people. The President will undoubtedly
+
+go along with a majority of the Legislature in this matter."
+
+"Do we have a majority?"
+
+"No. Far from it. But we might get one if the public will allow its desire for a broad interpretation of humanity to extend to you. A small chance, I admit; but if you do not wish to give up, we must gamble for it."
+
+"I do not wish to give up."
+
+20
+
+Congresswoman Li-hsing was considerably older than she had been when Andrew had first met her. Her transparent garments were long gone. Her hair was now close-cropped and her coverings were tubular. Yet still Andrew clung, as closely as he could within the limits of reasonable taste, to the style of clothing that had prevailed when he had first adopted clothing more than a century before.
+
+"We've gone as far as we can, Andrew," Li-hsing admitted. "We'll try once more after recess, but, to be honest, defeat is certain and then the whole thing will have to be given up. All my most recent efforts have only earned me certain defeat in the coming congressional campaign."
+
+"I know," said Andrew, "and it distressed me. You said once you would abandon me if it came to that Why have you not done so?"
+
+"One can change one's mind, you know. Somehow, abandoning you became a higher price than I cared to pay for just one more term. As it is, I've been in the Legislature , for over a quarter of a century. It's enough."
+
+"Is there no way we can change minds, Chee?"
+
+"We've changed all that are amenable to reason. The rest-the majority-cannot be moved from their emotional antipathies."
+
+"Emotional antipathy is not a valid reason for voting one way or the other."
+"I know that, Andrew, but they don't advance emotional antipathy as their reason."
+
+"It all comes down to the brain, then," Andrew said cautiously. "But must we leave it at the level of cells versus positrons? Is there no way of forcing a functional definition? Must we say that a brain is made of this or that? May we not say that a brain is something anything-capable of a certain level of thought?"
+
+"Won't work," said Li-hsing. "Your brain is manmade, the human brain is not. Your brain is constructed, theirs developed. To any human being who is intent on keeping up the barrier between himself and a robot, those differences are a steel wall a mile high and a mile thick."
+
+"If we could get at the source of their antipathy, the very source-"
+
+"After all your years," Li-hsing said, sadly, "you are still trying to reason out the human being. Poor Andrew, don't be angry, but it's the robot in you that drives you in that direction."
+
+"I don't know," said Andrew. "If I could bring myself . . . "
+
+I [Reprise
+
+If he could bring himself . . .
+
+He had known for a long time it might come to that, and in the end he was at the surgeon's. He had found one, skillful enough for the job at hand-which meant a surgeon-robot, for no human surgeon could be trusted in this connection, either in ability or in intention.
+
+The surgeon could not have performed the operation on a human being, so Andrew, after putting off the moment of decision with a sad line of questioning that reflected the turmoil within himself, had put First Law to one side by saying "I, too, am a robot."
+
+.
+
+He then said, as firmly as he had learned to form the words even at human beings over these past decades, "I order you to carry through the operation on me."
+
+In the absence of the First Law, an order so firmly given from one who looked so much like a man activated the Second Law sufficiently to carry the day.
+
+21
+
+Andrew's feeling of weakness was, he was sure, quite imaginary. He had recovered from the- operation. Nevertheless, he leaned, as unobtrusively as he could manage, against the wall. It would be entirely too revealing to sit.
+
+Li-hsing said, "The final vote will come this week, Andrew. I've been able to delay it no longer, and we must lose. And that will be it, Andrew:"
+
+"I am grateful for your skill at delay. It gave me the time I needed, and I took the gamble I had to."
+
+"What gamble is this?" Li-hsing asked with open concern.
+
+"I couldn't tell you, or even the people at Feingold and Martin. I was sure I would be stopped. See here, if it is the brain that is at issue, isn't the greatest difference of all the matter of immortality. Who really cares what a brain looks like or is built of or how it was formed. What matters is that human brain cells die, must die. Even if every other organ in the body is maintained or replaced, the brain cells, which cannot be replaced without changing and therefore killing the personality, must eventually die.
+
+"My own positronic pathways have lasted nearly two centuries without perceptible change, and can last for centuries more. Isn't that the fundamental barrier: human beings can tolerate an immortal robot, for it',' doesn't matter how long a machine lasts, but they cannot tolerate an immortal human being since their own mortality is endurable only so long as it is universal. And for that reason they won't make me a human being."
+
+"What is it you're leading up to, Andrew?" Li-hsing asked.
+
+"I have removed that problem. Decades ago, my positronic brain was connected to organic nerves. Now,
+one last operation has arranged that connection in such a way that slowly-quite slowly-the potential is being drained from my pathways."
+
+Li-hsing's finely. wrinkled face showed no expression for a moment. Then her lips tightened. "Do you mean you've arranged to die, Andrew? You can't have. That violates the Third Law."
+
+"No,", said Andrew, "I have chosen between the death of my body and the death of my aspirations and desires. To have let my body live at the cost of the greater death is what would have violated the Third Law."
+
+Li-hsing seized his arm as though she were about to shake him. She stopped herself. "Andrew, it won't work! Change it back."
+
+"It can't be done. Too much damage was done. I have a year to live more or less. I will last through the two-hundredth anniversary of my construction. I was weak enough to arrange that."
+
+"How can it be worth it? Andrew, you're a fool."
+
+"If it brings me humanity, that will be worth it. If it doesn't, it will bring an end to striving and that will be worth it, too."
+
+Then Li-hsing did something that astonished herself. Quietly, she began to weep.
+
+22
+
+It was odd how that last deed caught the imagination of the world. All that Andrew had done before had not swayed them. But he had finally accepted even death to be human, and the sacrifice was too great to be rejected.
+
+The final ceremony was timed, quite deliberately, for the two hundredth anniversary. The World President was to sign the act and make the people's will law. The ceremony would be visible on a global network and would be beamed to the Lunar state and even to the Martian colony.
+
+Andrew was in a wheelchair. He could still walk, but only shakily.
+
+With mankind watching, the World President said, "Fifty years ago, you were declared The Sesquicentennial Robot, Andrew." After a pause, and in a more solemn tone, he continued, "Today we declare you The Bicentennial Man, Mr. Martin."
+
+And Andrew, smiling, held out his hand to shake that of the President.
+
+23
+
+Andrew's thoughts were slowly fading as he lay in bed. Desperately he seized at them. Man! He was a man!
+
+He wanted that to be his last thought. He wanted to dissolve-die with that.
+
+He opened his eyes one more time and for one last time recognized Li-hsing, waiting solemnly. Others were there, but they were only shadows, unrecognizable shadows. Only Li-hsing stood out against the deepening gray.
+
+Slowly, inchingly, he held out his hand to her and
+
+very dimly and faintly felt her take it.
+
+She was fading in his eyes as the last of his thoughts trickled away. But before she faded completely, one final fugitive thought came to him and rested for a moment on his mind before everything stopped.
+
+"Little Miss," he whispered, too low to be heard.
