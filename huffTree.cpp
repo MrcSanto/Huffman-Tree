@@ -147,6 +147,15 @@ void draw(const node* root, const unordered_map<wchar_t, wstring>& huffCode) {
     system("dot -Tpng ../saida/huffman_tree.dot -o ../saida/graph.png");
 }
 
+void liberar(node *root){ //adicao de uma funcao para liberar memoria
+    if(!root){          //de ultima hora...
+        return;  
+    }
+    liberar(root->left);
+    liberar(root->right);
+    delete root;  
+}
+
 void buildHuffTree(wifstream &arq, wofstream &saida){
 
     if(!arq){
@@ -223,6 +232,8 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
     saida << L"Redução: " << compression_ratio << L"%" << endl;
 
     draw(root, huffCode);
+
+    liberar(root); //libera memoria da heap 
 
 }
 
