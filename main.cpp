@@ -7,6 +7,9 @@
 using namespace std;
 
 int main(){
+
+    huffDoGiu();
+
     string path;
     cout << "Digite o nome do arquivo para ser comprimido: ";
     cin >> path;
