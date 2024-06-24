@@ -88,7 +88,7 @@ void export2dot(const node* root, const std::string& filename, const unordered_m
         while (!q.empty()) {
             const node* current = q.front();
             q.pop();
-            string node_name = "node" + to_string(reinterpret_cast<uintptr_t>(current));
+            string node_name = "node" + to_string(reinterpret_cast<uintptr_t>(current)); //converte ponteiro para string
 
             string label;
             bool flag = false;

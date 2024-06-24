@@ -15,7 +15,7 @@ int main(){
     cin >> path;
 
     wifstream arq("../Docs/" + path);
-    arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); 
+    arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); //para fazer funcionar com o UTF-8 
 
     wofstream saida("../saida/saida.txt");
     saida.imbue(locale(saida.getloc(), new codecvt_utf8<wchar_t>));
