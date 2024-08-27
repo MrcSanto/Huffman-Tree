@@ -14,7 +14,7 @@ int main(){
     cout << "Digite o nome do arquivo para ser comprimido: ";
     cin >> path;
 
-    wifstream arq("../Docs/" + path);
+    wifstream arq("../documentos/" + path);
     arq.imbue(locale(arq.getloc(), new codecvt_utf8<wchar_t>)); //para fazer funcionar com o UTF-8 
 
     wofstream saida("../saida/saida.txt");

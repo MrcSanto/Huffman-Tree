@@ -216,19 +216,17 @@ void buildHuffTree(wifstream &arq, wofstream &saida){
     }
 
     arq.clear();
-    arq.seekg(0, ios::end); //move o ponteiro do arquivo para o final, para medir o tamanho do arquivo
-    int original_size = arq.tellg(); //como o ponteiro esta no final, armazena o tamanho em bytes dentro da variavel 
+    arq.seekg(0, ios::end); // Move o ponteiro do arquivo para o final para medir o tamanho do arquivo
+    int original_size = arq.tellg() * 8; // Como o ponteiro está no final, armazena o tamanho em bits (bytes * 8)
 
-    int compressed_size = 0; //variavel para tamanho do arq compactado
-    for (auto pair : freq) { //itera sobre freq que contem as frequencias de cada caractere
-        compressed_size += pair.second * huffCode[pair.first].length(); //e faz uma simples multiplicacao para ver o tamanho
+    int compressed_size = 0; // Variável para tamanho do arquivo compactado
+    for (auto pair : freq) { // Itera sobre freq que contém as frequências de cada caractere
+        compressed_size += pair.second * huffCode[pair.first].length(); // Faz uma simples multiplicação para ver o tamanho em bits
     }
-    compressed_size = (compressed_size + 7) / 8; // converte para bytes
+    double compression_ratio = ((double)(original_size - compressed_size) / original_size) * 100; // Calcula a taxa de compressão.
 
-    double compression_ratio = ((double)(original_size - compressed_size) / original_size) * 100; //e calcula a taxa de compressao.
-
-    saida << L"\n\n\nTamanho original: " << original_size << L" bytes" << endl;
-    saida << L"Tamanho compactado: " << compressed_size << L" bytes" << endl;
+    saida << L"\n\n\nTamanho original: " << original_size << L" bits" << endl;
+    saida << L"Tamanho compactado: " << compressed_size << L" bits" << endl;
     saida << L"Redução: " << compression_ratio << L"%" << endl;
 
     draw(root, huffCode);
